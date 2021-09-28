@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name			Mail.ru Dark Transparent Theme
 @namespace		github.com/openstyles/stylus
-@version		1.0.1
+@version		1.0.2
 @description	Темная полупрозрачная тема для Mail.ru
 @author			Delmor_S
 ]
@@ -312,5 +312,9 @@
 	.news-item.is-highlight:before {
 		animation: none !important;
 		-webkit-animation: none !important;
+	}
+
+	.ph-modal-projects {
+		background-color: rgba(15, 15, 70, 0.97) !important;
 	}
 }
