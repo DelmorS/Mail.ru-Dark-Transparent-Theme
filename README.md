@@ -1,6 +1,6 @@
 # Mail.ru Dark Transparent Theme
 
-<a href="https://github.com/DelmorS/Mail.ru-Dark-Transparent-Theme/raw/main/mail_ru_dark_transparent.user.css">LINK TO INSTALL STYLE</a>
+<a href="https://github.com/DelmorS/Mail.ru-Dark-Transparent-Theme/raw/master/mail_ru_dark_transparent.user.css">LINK TO INSTALL STYLE</a>
 
 ## I kindly recommend you to install style using Stylus extension!
 
